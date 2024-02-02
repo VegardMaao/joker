@@ -1,4 +1,4 @@
-import joker from "give-me-a-joke";
+import joker from 'give-me-a-joke';
 
 // joker.getRandomDadJoke(console.log);
 
